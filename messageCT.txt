@@ -1,3 +1,4 @@
 [UPD]
-downllen := GDSDGSD
-message := Привет
+v=3.2.0
+downllen=611111111111111111
+message=Вышло новое обновление, баги вроде пофиксил
